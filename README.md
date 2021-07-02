@@ -1,4 +1,4 @@
-# CultivoPaymentMethodDashboard
+# Cultivo Payment Method Dashboard
 
 ## IMPORTANT
 
